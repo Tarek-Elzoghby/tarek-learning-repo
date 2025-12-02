@@ -8,8 +8,8 @@ It is organized to help track progress, practice consistently, and keep code cle
 ## 📂 Structure
 
 Python/
-├── Small-Scripts/ <- single-file exercises and practice programs
-├── guessing_game/ <- a playable mini-game with its own README
+├── Small-Scripts/            <- single-file exercises and practice programs
+├── Guessing_Game/            <- a playable mini-game with its own README
 └── README.md
 
 
