@@ -8,23 +8,40 @@ It is designed to track my progress, practice consistently, and build small proj
 
 ## 🌱 Current Focus
 - Computer Science fundamentals (problem solving, algorithms, data structures)  
-- Python and other programming languages (C, JavaScript, etc.)  
+- Python and other programming languages   
 - Git & GitHub workflow  
-- Data entry, research, and spreadsheet automation (Excel / Google Sheets)  
+- Data entry, research, and spreadsheet automation 
 - Small automation projects and scripts for everyday tasks  
 
 ---
 
 ## 📂 Structure
+
 The repository is organized by topic, with each folder containing exercises, problem sets, or small projects:
 
 tarek-learning-repo/
 │
 ├── Python/
+│ ├── Small-Scripts/ <- single-file practice programs
+│ ├── Guessing_Game/ <- first playable mini-game
+│ └── README.md <- overview of Python learning folder
+│
 └── README.md
 
 
 *(Folders will grow as I add more exercises, problem sets, and projects.)*
+
+---
+
+## 📝 What’s Inside the Python Folder?
+
+- **Small-Scripts/**  
+  Contains 8+ single-file scripts built for learning and practicing Python fundamentals.  
+  Examples: text formatting, fuel level converter, grocery list counter, date converter, menu system, etc.
+
+- **Guessing_Game/**  
+  A fun console game where the user guesses a randomly generated number, with hints until they get it right.  
+  This is the first fully playable program in the repo.
 
 ---
 
