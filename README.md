@@ -17,16 +17,17 @@ It is designed to track my progress, practice consistently, and build small proj
 
 ## 📂 Structure
 
-The repository is organized by topic, with each folder containing exercises, problem sets, or small projects:
+The repository is organized by topic, with each folder containing exercises, problem sets, or small projects.
 
+```text
 tarek-learning-repo/
 │
 ├── Python/
-│ ├── Small-Scripts/ <- single-file practice programs
-│ ├── Guessing_Game/ <- first playable mini-game
-│ └── README.md <- overview of Python learning folder
+│   ├── Small-Scripts/      <-- single-file practice programs
+│   ├── Guessing_Game/      <-- first playable mini-game
+│   └── README.md           <-- overview of the Python learning folder
 │
-└── README.md
+└── README.md               <-- this file
 
 
 *(Folders will grow as I add more exercises, problem sets, and projects.)*
