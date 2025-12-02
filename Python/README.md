@@ -7,11 +7,14 @@ It is organized to help track progress, practice consistently, and keep code cle
 
 ## 📂 Structure
 
-Python/
-├── Small-Scripts/            <- single-file exercises and practice programs
-├── Guessing_Game/            <- a playable mini-game with its own README
-└── README.md
-
+```text
+python/
+│
+├── Small-Scripts/      <-- single-file practice programs
+├── Guessing_Game/      <-- first playable mini-game
+│    └── README.md           <-- overview of the Python learning folder
+│
+└── README.md               <-- this file
 
 ---
 
