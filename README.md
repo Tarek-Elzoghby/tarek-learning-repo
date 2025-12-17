@@ -19,12 +19,14 @@ It is designed to track my progress, practice consistently, and build small proj
 
 The repository is organized by topic, with each folder containing exercises, problem sets, or small projects.
 
+
 ```text
 tarek-learning-repo/
 │
 ├── Python/
-│   ├── Small-Scripts/      <-- single-file practice programs
-│   ├── Guessing_Game/      <-- first playable mini-game
+│   ├── Small-Scripts/      <-- single-file practice programs and early projects
+│   ├── csv/        <-- CSV reading and writing automation scripts
+│   ├── FileI/O/            <-- file input/output automation scripts
 │   └── README.md           <-- overview of the Python learning folder
 │
 └── README.md               <-- this file
@@ -40,9 +42,11 @@ tarek-learning-repo/
   Contains 8+ single-file scripts built for learning and practicing Python fundamentals.  
   Examples: text formatting, fuel level converter, grocery list counter, date converter, menu system, etc.
 
-- **Guessing_Game/**  
-  A fun console game where the user guesses a randomly generated number, with hints until they get it right.  
-  This is the first fully playable program in the repo.
+- **csv/**  
+  Contains CSV automation scripts demonstrating reading and writing structured data with Python’s csv module.
+
+- **FileI/O/** 
+  Contains file I/O automation scripts, including command-line utilities and line counting.
 
 ---
 
