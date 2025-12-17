@@ -10,20 +10,19 @@ It is organized to help track progress, practice consistently, and keep code cle
 ```text
 python/
 │
-├── Small-Scripts/      <-- single-file practice programs
-├── Guessing_Game/      <-- first playable mini-game
-│    └── README.md           <-- overview of the Python learning folder
-│
-└── README.md               <-- this file
+├── Small-Scripts/      <-- single-file practice programs and early projects
+├── csv/        <-- CSV reading and writing automation scripts
+├── FileI/O/            <-- file input/output automation scripts
+└── README.md           <-- this file
+
 
 ---
 
 ## 📝 Current Folders
 
 - **`Small-Scripts/`** — contains individual Python scripts for practice (8+ small programs)  
-- **`guessing_game/`** — contains the full number guessing game project with a dedicated README  
-
----
+- **`csv/`** — contains CSV automation scripts demonstrating reading and writing structured data with Python’s csv module
+- **`FileI/O/ `** — contains file I/O automation scripts, including command-line utilities and line counting
 
 ## 📚 Purpose
 
