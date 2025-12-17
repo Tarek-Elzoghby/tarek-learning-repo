@@ -14,7 +14,11 @@ These scripts are self-contained and focus on basic programming concepts, proble
 - `fuel.py` — converts a fraction input into a fuel percentage and displays `E` or `F` when near empty or full  
 - `Grocery_List.py` — counts and sorts items from user input into an organized shopping list  
 - `Outdated.py` — converts dates from various formats into a standard YYYY-MM-DD format  
-- `Taqueria.py` — simulates a taco shop order system, showing running totals for ordered menu items  
+- `Taqueria.py` — simulates a taco shop order system, showing running totals for ordered menu items 
+- `guess.py` — a number guessing game with input validation and hints  
+- `professor.py` — practice script demonstrating logic, loops, or other fundamentals (replace with a short one-line description if needed)
+- `Bitcoin.py` — fetches the current Bitcoin price and calculates the total value for a user-specified amount  
+
 
 ---
 
