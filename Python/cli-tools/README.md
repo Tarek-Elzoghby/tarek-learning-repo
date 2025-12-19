@@ -21,6 +21,7 @@ A command-line utility that:
 Example usage:
 ```bash
 python pizza.py sicilian.csv
+```
 ---
 
 ### `scourgify.py`
@@ -34,4 +35,5 @@ A command-line data-cleaning utility that:
 Example usage:
 ```bash
 python scourgify.py scourgify.csv output.csv
+```
 
