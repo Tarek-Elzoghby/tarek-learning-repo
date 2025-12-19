@@ -22,4 +22,14 @@ Example usage:
 ```bash
 python pizza.py sicilian.csv
 
+### `scourgify.py`
+A command-line data-cleaning utility that:
+- Accepts an input CSV file and an output CSV file as arguments
+- Reads student data where names are stored as "Last, First"
+- Splits names into separate first name and last name columns
+- Writes cleaned data to a new CSV file
+- Uses logging to track execution steps and errors
+
+Example usage:
+python scourgify.py before.csv after.csv
 
