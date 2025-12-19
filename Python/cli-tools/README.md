@@ -31,5 +31,6 @@ A command-line data-cleaning utility that:
 - Uses logging to track execution steps and errors
 
 Example usage:
-python scourgify.py before.csv after.csv
+```bash
+python scourgify.py scourgify.csv output.csv
 
