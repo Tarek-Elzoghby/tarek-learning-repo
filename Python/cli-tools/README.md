@@ -36,4 +36,19 @@ Example usage:
 ```bash
 python scourgify.py scourgify.csv output.csv
 ```
+---
+### `shirt.py`
+A command-line image processing utility that:
+- Accepts an input image and output image as arguments
+- Validates file extensions (`.jpg`, `.jpeg`, `.png`) and matching types
+- Opens the input image and a `shirt.png` overlay
+- Resizes/crops the input to match the shirt
+- Pastes the shirt onto the input image
+- Saves the result to the output file
+- Logs execution steps and errors
+
+Example usage:
+```bash
+python shirt.py input.jpg output.jpg
+```
 
