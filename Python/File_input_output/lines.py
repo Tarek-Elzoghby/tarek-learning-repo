@@ -1,6 +1,5 @@
 import sys
 
-
 def main():
     # Check the name of the program in CLA
     try:

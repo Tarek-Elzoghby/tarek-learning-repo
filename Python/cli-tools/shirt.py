@@ -46,6 +46,5 @@ def main():
         logging.error("Input file does not exist")
         sys.exit()
 
-
 if __name__ == "__main__":
     main()

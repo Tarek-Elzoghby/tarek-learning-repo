@@ -17,7 +17,8 @@ These scripts are self-contained and focus on basic programming concepts, proble
 - `Taqueria.py` — simulates a taco shop order system, showing running totals for ordered menu items 
 - `guess.py` — a number guessing game with input validation and hints  
 - `professor.py` — practice script demonstrating logic, loops, or other fundamentals (replace with a short one-line description if needed)
-- `Bitcoin.py` — fetches the current Bitcoin price and calculates the total value for a user-specified amount  
+- `Bitcoin.py` — fetches the current Bitcoin price and calculates the total value for a user-specified amount 
+- `numbers.py` — A Python script that validates IPv4 addresses by enforcing correct dot-decimal format and octet range constraints (0–255). 
 
 
 ---
