@@ -1,9 +1,6 @@
 def main():
     fraction = get_fraction("Fraction: ") 
     print(get_percent(fraction))
-    
-
-
 
 def get_fraction(prompt):
     while True:
@@ -30,8 +27,5 @@ def get_percent(i):
     else:
         return f"{round(i)}%"
     
-
-
-
 
 main()

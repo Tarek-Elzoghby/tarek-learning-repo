@@ -16,7 +16,6 @@ def main():
             print(f"{count} {i}")
             
 
-    
 def get_item():
     while True:
         #prompts the user for items, until the user inputs control-z

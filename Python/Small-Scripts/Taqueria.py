@@ -24,7 +24,6 @@ def main():
         print(f"${total:.2f}")
         
     
-
 def get_item(prompt):
     while True:
         #prompts the user for items, until the user inputs control-z

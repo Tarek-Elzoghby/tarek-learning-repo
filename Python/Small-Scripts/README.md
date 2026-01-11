@@ -19,7 +19,7 @@ These scripts are self-contained and focus on basic programming concepts, proble
 - `professor.py` — practice script demonstrating logic, loops, or other fundamentals (replace with a short one-line description if needed)
 - `Bitcoin.py` — fetches the current Bitcoin price and calculates the total value for a user-specified amount 
 - `numbers.py` — A Python script that validates IPv4 addresses by enforcing correct dot-decimal format and octet range constraints (0–255). 
-
+- `working.py` — A Python program that validates and converts 12-hour time ranges into 24-hour format, handling edge cases and invalid input gracefully.
 
 ---
 

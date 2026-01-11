@@ -8,8 +8,6 @@ def main():
     print(f"{new_format[0]}-{new_format[1]:02}-{new_format[2]:02}")
 
 
-
-
 def standard ():
     #prompt the user for a date
     while True:
