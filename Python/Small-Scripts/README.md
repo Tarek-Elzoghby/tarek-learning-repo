@@ -21,6 +21,7 @@ These scripts are self-contained and focus on basic programming concepts, proble
 - `numbers.py` — A Python script that validates IPv4 addresses by enforcing correct dot-decimal format and octet range constraints (0–255). 
 - `working.py` — A Python program that validates and converts 12-hour time ranges into 24-hour format, handling edge cases and invalid input gracefully.
 - `um.py` — Counts occurrences of the word ‘um’ in text, ensuring it’s treated as a standalone word, case-insensitively.
+- `seasons.py` — A Python program that calculates how many minutes have passed since your birth using date arithmetic and prints the result in words, accounting for leap years and strict input validation.
 
 ---
 
